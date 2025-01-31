@@ -1,2 +1,2 @@
-# Week1
-Predicting Solar Power Output using Linear Regression
+# SolarPowerOutput
+This is my AICTE Virtual Internship - Cycle 3 
